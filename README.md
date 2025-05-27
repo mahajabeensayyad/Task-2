@@ -30,4 +30,4 @@ The dataset contains the following key fields:
   - 🎯 KPI Cards: Total Sales, Profit, Orders - Used Card
 
  ## 📸 Dashboard Preview
-![Dashboard Screenshot](Screenshots/Superstores Co Sales Report.jpg)
+![Screenshots/Superstores Co Sales Report.jpg](https://github.com/mahajabeensayyad/Task-2/blob/main/Superstores%20Co%20Sales%20Report.jpg)
