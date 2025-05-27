@@ -28,4 +28,6 @@ The dataset contains the following key fields:
   - 📦 Sales by Order Region - Used Stacked Bar Chart
   - 📅 Sales by Order Date - Used Line Chart
   - 🎯 KPI Cards: Total Sales, Profit, Orders - Used Card
- 
+
+ ## 📸 Dashboard Preview
+![Dashboard Screenshot](Screenshots/Superstores Co Sales Report.jpg)
